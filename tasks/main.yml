@@ -12,7 +12,7 @@
   debconf:
     name: 'locales'
     question: 'locales/locales_to_be_generated'
-    value: "{{ desired_locale }}"
+    value: "{{ desired_locale }} UTF-8"
     vtype: 'select'
   when:
     - 'ansible_os_family == "Debian"'
