@@ -1,0 +1,21 @@
+galaxy_info:
+  role_name: 'locale_on_Debian'
+  author: 'Johannes Kastl'
+  description: 'Create and set the locale on Debian/Ubuntu systems'
+  company: 'B1 Systems GmbH'
+
+  license: 'BSD-3-Clause'
+
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+
+  galaxy_tags: []
+
+dependencies: []
