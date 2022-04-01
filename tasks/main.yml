@@ -1,0 +1,7 @@
+---
+# locale_on_Debian/tasks/main.yml
+
+- name: 'Ensure desired locale exists'
+  locale_gen:
+    name: "{{ desired_locale }}"
+    state: 'present'
