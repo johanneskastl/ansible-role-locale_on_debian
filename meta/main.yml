@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'locale_on_Debian'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Create and set the locale on Debian/Ubuntu systems'
   company: 'B1 Systems GmbH'
