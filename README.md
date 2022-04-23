@@ -1,4 +1,4 @@
-locale_on_Debian
+locale_on_debian
 =========
 
 Create and set the locale on Debian/Ubuntu systems
@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-        - { role: 'johanneskastl.locale_on_Debian' }
+        - { role: 'johanneskastl.locale_on_debian' }
 
 License
 -------
