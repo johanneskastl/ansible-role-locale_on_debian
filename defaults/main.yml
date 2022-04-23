@@ -1,5 +1,5 @@
 ---
-# locale_on_Debian/defaults/main.yml
+# locale_on_debian/defaults/main.yml
 
 desired_locale: 'de_DE.UTF-8'
 default_locale: 'None'
