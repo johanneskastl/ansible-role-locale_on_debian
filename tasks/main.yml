@@ -1,5 +1,5 @@
 ---
-# locale_on_Debian/tasks/main.yml
+# locale_on_debian/tasks/main.yml
 
 - name: 'Ensure desired locale exists'
   locale_gen:
