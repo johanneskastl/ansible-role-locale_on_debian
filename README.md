@@ -3,7 +3,7 @@
 locale_on_debian
 =========
 
-Create and set the locale on Debian/Ubuntu systems
+Create and set the locale on Debian/Ubuntu systems.
 
 Requirements
 ------------
@@ -14,6 +14,7 @@ Role Variables
 --------------
 
 - `desired_locale`: The locale you want to have (Default: `de_DE.UTF-8`)
+- `default_locale`: The default locale (Default: `None`)
 
 Dependencies
 ------------
