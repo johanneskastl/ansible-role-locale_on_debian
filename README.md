@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-        - { role: 'johanneskastl.locale_on_debian' }
+        - role: 'johanneskastl.locale_on_debian'
 
 License
 -------
