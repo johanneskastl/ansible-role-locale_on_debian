@@ -1,3 +1,5 @@
+![Ansible Lint](https://github.com/johanneskastl/ansible-role-locale_on_debian/workflows/Ansible%20Lint/badge.svg)
+
 locale_on_debian
 =========
 
