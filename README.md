@@ -11,7 +11,7 @@ None.
 Role Variables
 --------------
 
-- `desired_locale`: The locale you want to have (Default: `de_DE.UTF-8`) 
+- `desired_locale`: The locale you want to have (Default: `de_DE.UTF-8`)
 
 Dependencies
 ------------
